@@ -83,12 +83,3 @@ Group project by **Bahar Jahani** and **Amirreza Kazemi**, Computer Networks cou
 ## About this project
 
 The course staff provided the project skeleton: class and method signatures, with docstrings describing the expected behaviour and the packet format. The implementation of the peer logic, packet encoding and decoding, the network graph and the Reunion mechanism is ours.
-
-Before publishing, I:
-
-- removed IDE files and compiled caches;
-- recovered `UserInterface.py` and `tools/SemiNode.py` from their compiled bytecode, because the source files were damaged in the archive;
-- replaced the original `Main.py`, which created two peers in one process, with a command-line entry point;
-- translated two code comments into English.
-
-This is course code, kept close to the original submission.
